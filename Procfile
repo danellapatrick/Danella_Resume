@@ -1,0 +1,1 @@
+web gunicorn mycv.wsgi:application --log-file -
